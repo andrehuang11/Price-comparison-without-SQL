@@ -1,0 +1,1 @@
+Same thing as Price-comparison (link:https://github.com/andrehuang11/Price-comparison), but without the use of SQL. I did this to practice other ways of managing data in a project.
